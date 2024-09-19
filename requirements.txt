@@ -4,7 +4,6 @@ Pillow>=8.2.0
 matplotlib>=3.4.2
 tqdm>=4.61.1
 numpy>=1.21.0
-inference-slicer>=0.1.0
 opencv-python>=4.5.2
 pycocotools>=2.0.2
 albumentations>=1.0.3
